@@ -12,16 +12,16 @@
 </p>
 
 <p align="center">
-  <a href="https://yourportfolio.com/">
+  <a href="https://yourportfolio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/devdd/">
+  <a href="https://www.linkedin.com/in/devdd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/devdoubled">
+  <a href="https://www.facebook.com/devdoubled" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/dev__doubled/">
+  <a href="https://www.instagram.com/dev__doubled/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
