@@ -3,9 +3,7 @@
   <img src="https://github.com/devdoubled/devdoubled/blob/main/assets/banner-1.gif" alt="Coding Banner" />
 </p>
 
-<h1 align="center" style="font-family: 'Fira Code', monospace;">
-  <code>👋 Hello, I'm Duy Lee 👨‍💻</code>
-</h1>
+<h1 align="center" style="font-family: 'Fira Code', monospace;">👋 Hey, I'm Duy Lee</h1>
 
 <p align="center">
   <i style="font-family: 'Fira Code', monospace;">
