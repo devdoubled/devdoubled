@@ -28,10 +28,15 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Project](https://github.com/yourrepo)**  
-- 🌱 I’m currently learning **Microservices, gRPC, GraphQL**
-- 💬 Ask me about **NestJS, Next.js, React, TypeScript**
-- ⚡ Fun fact: *I love solving real-world problems with clean architecture and modern tech stacks!*
+```plaintext
+Hey there! I'm devdoubled — a self-taught fullstack developer focused on building clean, maintainable, and scalable applications.
+
+I love working with microservices, GraphQL, gRPC, real-time systems, and modern web frameworks like NestJS and Next.js.
+
+Currently, I'm deep-diving into advanced caching, cloud-native architectures, and efficient API design.
+
+Outside of coding, I enjoy exploring new tech, contributing to open source, and helping others level up!
+```
 
 ---
 
@@ -58,9 +63,6 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=devdoubled&show_icons=true&theme=tokyonight" alt="devdoubled :: Profile Stats" /> 
 </p> 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdoubled&theme=tokyonight" alt="devdoubled :: GitHub Streak" /> 
-</p>
 
 ---
 
