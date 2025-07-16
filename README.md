@@ -1,22 +1,21 @@
 <!-- Banner: Coding vibe -->
 <p align="center">
-  <img src="https://github.com/devdoubled/devdoubled/blob/main/assets/banner.gif" alt="Coding Banner" />
+  <img src="https://github.com/devdoubled/devdoubled/blob/main/assets/banner-1.gif" alt="Coding Banner" />
 </p>
 
-<h1 align="center" style="font-family: 'Fira Code', monospace;">👋 Hey, I'm Duy Lee</h1>
+<h1 align="center" style="font-family: 'Fira Code', monospace;">
+  <code>👋 Hello, I'm Duy Lee 👨‍💻</code>
+</h1>
 
 <p align="center">
   <i style="font-family: 'Fira Code', monospace;">
-    Fullstack Developer · Clean Architecture · Real-World Solutions
+    🚀 Fullstack Developer · Clean Architecture · Real-World Solutions
   </i>
 </p>
 
 <p align="center">
   <a href="https://yourportfolio.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-  <a href="mailto:duylvd2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/devdd/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -34,15 +33,16 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **microservice-based real-world applications**
-- 🌱 I’m learning **gRPC, GraphQL, and advanced caching with Redis**
-- 💬 Ask me about **NestJS, Next.js, React, TypeScript**
+- 👨‍💻 I’m a Software Engineer sharing practical solutions and clean code.
+- 🎓 Studied Software Engineering at FPT University, Ho Chi Minh City, Vietnam.
+- 🔭 I’m currently working on **real-world applications using a microservice architecture**
+- 🌱 I’m learning **Kafka, Kubernetes deployment, gRPC, GraphQL, and advanced caching with Redis**
 - ⚡ Fun fact: *I love building products that solve real problems with clean architectures!*
 
 ---
 
 <!-- Tech Stack -->
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <!-- Languages -->
