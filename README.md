@@ -3,7 +3,7 @@
   <img src="https://github.com/devdoubled/devdoubled/blob/main/assets/banner.gif" alt="Coding Banner" />
 </p>
 
-<h1 align="center" style="font-family: 'Fira Code', monospace;">👋 Hey, I'm devdoubled</h1>
+<h1 align="center" style="font-family: 'Fira Code', monospace;">👋 Hey, I'm Duy Lee</h1>
 
 <p align="center">
   <i style="font-family: 'Fira Code', monospace;">
@@ -28,15 +28,10 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-```plaintext
-Hey there! I'm devdoubled — a self-taught fullstack developer focused on building clean, maintainable, and scalable applications.
-
-I love working with microservices, GraphQL, gRPC, real-time systems, and modern web frameworks like NestJS and Next.js.
-
-Currently, I'm deep-diving into advanced caching, cloud-native architectures, and efficient API design.
-
-Outside of coding, I enjoy exploring new tech, contributing to open source, and helping others level up!
-```
+- 🔭 I’m currently working on **microservice-based real-world applications**
+- 🌱 I’m learning **gRPC, GraphQL, and advanced caching with Redis**
+- 💬 Ask me about **NestJS, Next.js, React, TypeScript**
+- ⚡ Fun fact: *I love building products that solve real problems with clean architectures!*
 
 ---
 
