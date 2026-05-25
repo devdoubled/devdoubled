@@ -131,24 +131,6 @@ On the **Higher platform** (100K+ users), I used Claude Code across the full cyc
 
 ---
 
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=devdoubled&show_icons=true&theme=tokyonight" alt="devdoubled :: Profile Stats" /> 
-</p> 
-
----
-
-<!-- Top Languages -->
-## 🗂️ Top Languages
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdoubled&langs_count=8&theme=tokyonight&layout=compact" alt="devdoubled :: Top Languages" /> 
-</p>
-
----
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
